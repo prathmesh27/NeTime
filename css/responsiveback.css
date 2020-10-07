@@ -1,0 +1,467 @@
+@media screen and (max-width: 1980px) and (min-width: 1367px){}
+@media screen and (max-width: 1920px) and (min-width: 1367px){}
+@media screen and (max-width: 1680px) and (min-width: 1367px){}
+@media screen and (max-width: 1600px) and (min-width: 1367px){}
+@media screen and (max-width: 1440px) and (min-width: 1367px){}
+@media screen and (max-width: 1346px){
+	main .video-section  .taj img {
+		width: 1280px;
+	}
+}
+@media screen and (max-width: 1280px){
+	main .video-section .carousel-bg .carousel-indicators{
+		top:-45%;
+		left: 10%;
+	}
+	main .video-section  .taj img {
+		width: 1024px;
+	}
+	main .video-section .carousel-bg .carousel-indicators li{
+		width: 150px;
+    height: 117px;
+    margin: 0 2% 0 1%;
+	}
+	header .header-font .reamark{
+		font-size: 8.8rem;
+	}
+	header .header-font .so{
+		margin: 0 13% 0 0;
+	}
+	.animation, .animation2{
+		height: 40vh;
+	}
+}
+@media screen and (min-width:1200px) and (max-width: 1280px){
+		header .header-font .so {
+    margin: 0 18% 0 0;
+    display: 	block	;	
+}
+}
+@media screen and (min-width:1100px) and (max-width: 1200px){
+			header .header-font .so {
+    margin: 0 14% 0 0 ;
+    display: 	block	;	
+}
+
+}
+
+@media screen and (max-width: 1024px){
+	.animation, .animation2{
+		height: 40vh;
+	}
+	/*.client .carousel-control-prev-icon,
+	.client .carousel-control-next-icon{
+		top: -30%;
+	}*/
+	.client .clip{
+		top: -45px;
+		left: 	180px;
+	}
+	.client .clip2{
+		top: -45px;
+		right:180px;
+	}
+	.client .clip img,
+	.client .clip2 img {
+    	width: 25px;
+	}
+	.client .client-bg{
+		width: 	100%;
+	}
+	.client .carousel-control-prev-icon,
+	.client .carousel-control-next-icon{
+		background-size: 	40px;
+		background-repeat: 	no-repeat;	
+	}
+	main .animation-services .card .side img{
+		width: 	205px;
+	}
+	main .animation-services .card-text{
+		margin: -40% auto;
+	}
+	main .animation-services .card-container{
+		height:250px;
+	}
+	main .video-section  .taj img {
+		width: 990px;
+	}
+	main .video-section .carousel-bg .carousel-indicators li {
+    width: 330px;
+    height: 117px;
+    margin: 0px 1% 0 1%;
+    background: transparent;
+}
+	main .video-section .carousel-bg .carousel-indicators{
+		left: 0;
+	}
+	header .header-font{
+		width: 	72%;
+	}
+}
+@media screen and (max-width: 990px){
+/*	.client .carousel-control-prev-icon, .client .carousel-control-next-icon {
+    top: -35%;
+}*/
+.head-top .cloud1,.head-top .cloud2,.head-top .cloud3
+	,.head-top .cloud4,.head-top .cloud5{
+		display: none;
+	}
+.form-section form{
+	width: 100%;
+}
+	main .animation-services .card-text{
+		margin: 	-55% auto	;
+	}
+	.mt7{
+		margin-top: 4rem;
+	}
+	main .video-section .carousel-bg .carousel-indicators li {
+    width: 150px;
+    height: 117px;
+    margin: 0px 1% 0 1%;
+    background: transparent;
+}
+main .video-section  .taj img {
+		width: 800px;
+	}
+main .video-section .carousel-bg .carousel-indicators li {
+    width: 100px;
+    height: 100px;
+    margin: 0px 3% 0 2%;
+    background: transparent;
+}
+main .video-section .carousel-bg .carousel-indicators{
+		top:-43%;
+		left: 0;
+	}
+	header .header-element .astronaut1 img {
+    width: 400px;
+}
+header .header-element .earth img ,
+header .header-element .space-craft img{
+    width: 80px;
+}
+header .header-element .earth {
+    position: absolute;
+    right: 7%;
+    top: 32px;
+}
+}
+@media screen and (max-width: 800px){
+/*	main .video-section .carousel .carousel-control-prev{
+		top: 18px;
+		left: 18%;
+	}
+	main .video-section .carousel .carousel-control-next{
+		top: 18px;
+		right:18%;
+	}*/
+	main .video-section .carousel-control-prev-icon,
+	main .video-section .carousel-control-next-icon{
+		background-size: 30px;
+	}
+	main .video-section .carousel-bg .carousel-indicators {
+    top: -41%;
+    left: 4%;
+}
+.client .clip{
+	left: 	135px;
+}
+.client .clip2{
+	right: 	 	135px;
+}
+main .video-section .carousel-bg .carousel-indicators li {
+    width: 100px;
+    height: 95px;
+    margin: 0px 2% 0 2%;
+    background: transparent;
+}
+header .header-font .reamark{
+	font-size: 7.8rem;
+}
+header .header-font{
+	width: 85%;
+}
+}
+@media screen and (max-width: 799px){
+	.desktop-taj{
+		display: none;
+	}
+	.mobile-taj{
+		display: block;
+	}
+	.video-section .carousel-indicators li{
+		background: transparent !important;
+	}
+}
+@media screen and (max-width: 768px){
+	header .header-element .astronaut1 img{
+		width: 350px;
+	}
+	
+	header .header-element .earth {
+    	top: 21%;
+	}
+}
+@media screen and (max-width: 640px){
+	header .header-font {
+    width: 100%;
+}
+header .header-element .astronaut1 img {
+    width: 250px;
+}
+header .header-element .space-craft img {
+    width: 70px;
+}
+header .header-element .earth img {
+    width: 50px;
+}
+header .header-font .reamark {
+    font-size: 6.8rem;
+}
+header .header-font .are{
+	padding-bottom: 5px;
+}
+.whoweare .para{
+	width: 100%;
+}
+.whoweare .whoweare-para{
+	width: 100%;
+}
+main .animation-services .card-text {
+    margin: -25% auto;
+}
+main .video-section .carousel-control-prev-icon,
+main .video-section .carousel-control-next-icon{
+	top: -12px;
+	padding: 0;
+	background-size: 25px;
+}
+main .video-section .carousel-control-prev-icon{
+	/*left: 0;*/
+}
+main .video-section .carousel .carousel-control-prev{
+	left: 0;
+}
+main .video-section .carousel-control-next-icon{
+	/*right: 0;*/
+}
+main .video-section .carousel-control-next{
+	right: 0;
+}
+main .video-section .carousel-bg .carousel p{
+	width: 100%;
+}
+.box img,
+.box2 img{
+	width: 100px;
+}
+main .animate-section .whygo h2{
+	text-align: center;
+	padding: 0;
+}
+.ship-section .bg-static{
+	margin-top: 11%;
+}
+.ship-section .bg-move{
+	width: 2000px;
+}
+.client .carousel-control-prev-icon, .client .carousel-control-next-icon{
+	/*top: -80px;*/
+}
+.client .client-bg{
+	width: 100%;
+/*	margin: 3rem auto 3rem;*/
+}
+.client .client-content .quote-top{
+	left: -12px;
+	top: 	-24%;
+}
+.bb{
+	margin-top: 7%;
+}
+}
+@media screen and (max-width: 600px){}
+@media screen and (max-width: 480px){
+	.paper-plane{
+		height: 60px;
+	}
+	header .header-element .astronaut1 {
+    text-align: center;
+    /* top: 21%; */
+    margin: -51px 0 0 0;
+    
+}
+	header .header-font{
+		padding: 	25px;
+	}
+	.client .clip {
+    left: 80px;
+}
+.client .clip2 {
+    right: 	 80px;
+}
+	header .logo img {
+    width: 130px;
+}
+header .header-font .reamark {
+    font-size: 5.8rem;
+}
+header .header-font{
+	margin: 0 !important	;
+}
+header .header-element .space-craft img {
+    width: 50px;
+}
+header .header-element .Mateor {
+    left: 10%;
+}
+main .animation-services .card .side img {
+    width: 100%;
+}
+main .animation-services .card-text {
+    margin: -30% auto;
+}
+.box ,.box2{
+	display: none;
+}
+.ship-section{
+	margin-top: 15% !important;
+}
+}
+@media screen and (max-width: 425px){
+	header .header-font .reamark {
+    font-size: 4.8rem;
+}
+header .header-font .are{
+	font-size: 1.5rem;
+}
+header .header-font .so{
+	font-size: 1.5rem;
+}
+header .header-element .astronaut1 img {
+    width: 200px;
+}
+header .header-element .Mateor img,
+header .header-element .star img {
+    width: 30px;
+}
+main .animation-services .card-text {
+    margin: -34% auto;
+}
+footer .footer-content .sec{
+	display: unset;
+}
+.socio-icon ul{
+	padding: 0;
+}
+header .header-font {
+    margin: 0 0 0 10px;
+}
+.bg-move2{
+	bottom: 2px;
+	width: 1000px;
+}
+.bg-static2{
+	padding-bottom: 22%;
+}
+header .header-font .are{
+	display: inline;
+}
+header .header-font .reamark
+{
+	display: inline;
+}
+header .header-font{
+	max-width: 100%;
+	padding-left: 20px;
+	line-height: 	.9;
+    margin: 20px 0px 0 0px;
+}
+header .header-element .space-craft{
+	top: 	25px;
+}
+header .header-element .astronaut1{
+	/*margin:-10% 0 0 0;*/
+}
+header .header-element .astronaut1 {
+    text-align: center;
+    /* top: 21%; */
+    margin: -61px 0 0 0;
+}
+header .header-element .earth {
+    top: 30%;
+}
+header .header-element .earth img{
+    width: 	40px;
+}
+header .header-font .so {
+    margin: 0 17% 0 0;
+}
+header .header-font .are{
+	line-height:0;
+	padding-bottom: 	0;
+}
+header .header-font .so{
+	line-height: 	.5;
+}
+.row{
+	margin: 	0;
+}
+.socio-icon{
+	text-align: left;
+	margin: 10px 0;
+}
+main .animate-section h2{
+	font-size: 	2rem;
+}
+.brands .count h2,
+.brands span{
+	font-size: 	3rem;
+}
+}
+@media screen and (max-width: 414px){
+	.btn{
+		font-size: 	23px;
+	}
+	main .animation-services .card-text {
+    margin: -39% auto;
+}
+}
+@media screen and (max-width: 384px){
+	main .animation-services .card-text {
+    margin: -41% auto;
+}
+main .animate-section h2{
+	font-size: 	1.5rem;
+}
+main .video-section .carousel-control-prev-icon, main .video-section .carousel-control-next-icon{
+	top: 	0;
+}
+#socialmedia .carousel-item{
+	padding-top: 	5%;
+}
+header .header-font .reamark {
+    font-size: 3.8rem;
+}
+header .header-font .are {
+    font-size: 1.2rem;
+}
+}
+@media screen and (max-width: 375px){}
+@media screen and (max-width: 360px){
+	main .animation-services .card-text {
+    margin: -45% auto;
+}
+.client .clip {
+    left: 60px;
+}
+.client .clip2 {
+   right: 60px;
+}
+.client .client-content .quote-top {
+    left: -20px;
+    top: -28%;
+}
+}
+@media screen and (max-width: 320px){}

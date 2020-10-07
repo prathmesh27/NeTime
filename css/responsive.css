@@ -1,0 +1,193 @@
+@media screen and (max-width: 1980px) and (min-width: 1567px){
+	footer .footer-inner {
+    padding: 14rem 0 0;
+}
+}
+@media screen and (max-width: 1920px) and (min-width: 1367px){}
+@media screen and (max-width: 1680px) and (min-width: 1367px){}
+@media screen and (max-width: 1600px) and (min-width: 1367px){}
+@media screen and (min-width: 1440px) {
+
+}
+@media screen and (max-width: 1346px){
+
+}
+@media screen and (max-width: 1280px){
+
+}
+@media screen and (max-width: 1280px){
+
+}
+@media screen and (min-width:1200px) and (max-width: 1279px){
+
+}
+@media screen and (min-width:990px) and (max-width: 1200px){
+main .carousel-indicators{
+	bottom: 0;
+}
+}
+
+@media screen and (max-width: 1024px){
+
+}
+@media screen and (max-width: 992px){
+		main .carousel-indicators{
+		bottom: -15%;
+	}
+}
+@media screen and (max-width: 800px){
+		footer .footer-inner{
+			padding:7rem 0 0 0; 	
+		}
+}
+@media screen and (max-width: 767px){
+	.our-services{
+		margin-top: 	8rem;
+	}
+	main .carousel .carousel-inner .carousel-item img {
+    width: 50%;
+    margin: 0 auto;
+    max-height: 250px;
+}
+.pt6 {
+    padding-top: 4rem;
+}
+.whatweserve #testimonial img{
+	width: 	140px;
+}
+.our-services #one{
+		order:1;
+	}
+	.our-services #two{
+		order:2;
+	}
+	.our-services img{
+		width: 	70%;
+	}
+}
+@media screen and (max-width: 640px){
+	
+}
+@media screen and (max-width: 600px){}
+@media screen and (max-width: 480px){
+	header .navbar-brand img{
+		width: 	55px;
+	}
+	.clients img{
+		width: 	100%;
+	}
+	footer .border-b{
+		display:block;	
+	}
+	footer .border-b a{
+		display:block;	
+		font-size: 13px;
+   		margin: .4rem 0;
+	}
+	footer .border-b span{
+		display: 	none;	
+	}
+	#one{
+		order: 1;
+	}
+	#two{
+		order: 2;
+	}
+	main .carousel .carousel-inner .carousel-item img{
+		width: 	75%;
+	}
+	.background-sec {
+   		height: 90vh;
+    	background-position: right;
+	}
+	.banner-sec {
+    	margin-top: 1rem;
+	}
+	main .carousel .carousel-inner .carousel-item h1{
+		color: 	#6C63FF;
+		font-size: 	28px;
+		margin-bottom:.4rem;
+	}
+	main .carousel .carousel-inner .carousel-item p{
+		color: 	#000;
+		padding-top: 	10px;
+	}
+	main .carousel .carousel-inner .carousel-item .image-sec{
+		min-height: 	135px;
+	}
+	main .carousel .carousel-inner .carousel-item .banner-content{
+		margin-top:0rem;
+	}
+	.our-services h1, .whoarewe h1, .whatweserve h1, .clients h1{
+		font-size: 30px;
+	}
+	.our-services .bg-sec2 img,
+	.our-services .bg-sec5 img{
+			width: 	100px;
+	}
+	.mt6{
+		margin-top:6rem;
+	}
+	.whoarewe h2{
+		font-size: 	21px;
+	}
+	.whoarewe p{
+		width: 	100%;
+	}
+	.our-services .bg-sec img {
+    		width: 90px;
+	}
+	.whoarewe img {
+    		width: 180px;
+	}
+	main .banner-sec .carousel .carousel-indicators li{
+		background-color: #6C63FF;
+	}
+	main .carousel-indicators {
+    width: 25%;
+    bottom: -5%;
+    margin: 0 auto;
+}
+.whatweserve{
+	height:unset;	
+	padding-bottom:2.5rem;
+}
+.whatweserve #testimonial p{
+	margin:10px 0;
+	text-align:justify;	
+}
+footer .footer-inner {
+    padding: 7rem 0 0;
+}
+.pt6{
+	padding-top:1.5rem;
+}
+.whatweserve #testimonial{
+	width: 	100%;
+}
+.whatweserve #testimonial img{
+	width: 	100px;
+	margin:	1rem auto;
+}
+.our-services .services-content p{
+	font-size: 	14px;
+	text-align: justify;
+}
+.whoarewe{
+	margin:2rem 0;
+}
+}
+@media screen and (max-width: 425px){
+	
+}
+@media screen and (max-width: 414px){
+	
+}
+@media screen and (max-width: 384px){
+	
+}
+@media screen and (max-width: 375px){}
+@media screen and (max-width: 360px){
+
+}
+@media screen and (max-width: 320px){}
