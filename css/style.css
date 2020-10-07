@@ -61,6 +61,12 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+xheader{
+	position: fixed;
+	width: 100%;
+	z-index: 9999;
+	background: #fff;
+}
 header nav  .navbar-nav .nav-link{
 	color: #fff !important;
 	padding:  15px !important;
