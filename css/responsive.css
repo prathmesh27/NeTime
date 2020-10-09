@@ -71,7 +71,7 @@ main .carousel-indicators{
 @media screen and (max-width: 600px){}
 @media screen and (max-width: 480px){
 	header .navbar-brand img{
-		width: 	55px;
+		width: 	80px;
 	}
 	.clients img{
 		width: 	100%;
